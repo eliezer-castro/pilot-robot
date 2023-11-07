@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.11.5 on win32)" generated="20231107 16:02:18.666" rpa="false" schemaversion="4">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\ELIEZER.CASTRO\.vscode\extensions\robocorp.robotframework-lsp-1.11.0\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<kw name="Dado que preecha os campos do formulario">
+<msg timestamp="20231107 16:02:19.874" level="FAIL">No keyword with name 'Dado que preecha os campos do formulario' found.</msg>
+<status status="FAIL" starttime="20231107 16:02:19.874" endtime="20231107 16:02:19.874"/>
+</kw>
+<kw name="Então criar e identinficar 1 card em cada time disponível">
+<status status="NOT RUN" starttime="20231107 16:02:19.876" endtime="20231107 16:02:19.876"/>
+</kw>
+<status status="PASS" starttime="20231107 16:02:18.695" endtime="20231107 16:02:21.636"/>
+</kw>
+<status status="PASS" starttime="20231107 16:02:18.694" endtime="20231107 16:02:21.637"/>
+</test>
+<status status="PASS" starttime="20231107 16:02:18.668" endtime="20231107 16:02:21.637"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
